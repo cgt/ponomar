@@ -169,3 +169,4 @@ Makefile.old
 *.class
 out/
 .idea/
+*.received.*

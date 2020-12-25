@@ -1,0 +1,2 @@
+In testing.dayInfo we have { nday=3; wday=6; ndayP=81;  }
+In testin2.dayInfo, we have { nday=3; wday=6; ndayP=81; testing=-123;  }
